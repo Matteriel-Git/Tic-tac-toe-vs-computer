@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
+
+body{
+	font-family:monospace;
+	background-color: #000;
+	color:green;
+}
+.text-center{
+	text-align:center;
+}
+
+.title{
+	font-size:2rem;
+	float:left;
+	padding-bottom:30px;
+	font-weight:bold;
+}
+.score{
+	float:right;
+	font-size:2rem;
+	padding-bottom:30px;
+	font-weight:bold;
+}
+.tictactoe-board{
+	width:410px;
+	margin:0px auto;
+}
+.board-row{
+	clear:both;
+	margin:0px auto;
+	border-bottom:5px solid green;
+}
+.board-row:first-of-type{
+	border-bottom:0px;
+}
+.board-cell{
+	float:left;
+	font-size:8rem;
+	padding: 0px 28px 0px 28px;
+	cursor:pointer;
+}
+.board-row > .board-cell{
+	border-right:5px solid green;
+}
+.board-row > .board-cell:last-of-type{
+	border-right:0px;
+}
+.message{
+	font-size:2rem;
+	clear:both;
+	padding-top:50px;
+}
