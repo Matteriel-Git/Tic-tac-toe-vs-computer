@@ -11,5 +11,5 @@ Tic Tac Toe vs Computer -
 
 ## Deployment
 
-    This site is deployed here :
+This site is deployed here :
 [Tic Tac Toe](https://tic-tac-toe-vs-computer.netlify.app/)
