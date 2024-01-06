@@ -4,6 +4,7 @@ Tic Tac Toe vs Computer -
 
 ## Features
 
+    Responsive page.
     Computer makes their own moves.
     Win counter for player and computer.
     Loser of the last game goes first next game.
