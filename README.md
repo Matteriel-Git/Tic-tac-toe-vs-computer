@@ -1,5 +1,7 @@
 Tic Tac Toe vs Computer -
 
+    Try your luck against AI in tic tac toe!
+
 ## Features
 
     Computer makes their own moves.
